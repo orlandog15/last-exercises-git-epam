@@ -1,2 +1,2 @@
-# epam-excercise
+# Exercises
 excercise
